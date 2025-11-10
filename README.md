@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I am a passionate Frontend Developer and a student FCI-ZU.<br><br>I enjoy transforming ideas into interactive, responsive, and visually appealing web experiences. My focus is on writing clean, efficient code and building user-friendly interfaces that deliver both beauty and performance.<br><br>- 📚 I'm currently learning Backend Development to become a well-rounded Full Stack Developer</p>
+<p align="left">I am a passionate Frontend Developer and a student at FCI-ZU.<br><br>I enjoy transforming ideas into interactive, responsive, and visually appealing web experiences. My focus is on writing clean, efficient code and building user-friendly interfaces that deliver both beauty and performance.<br><br>- 📚 I'm currently learning Backend Development to become a well-rounded Full Stack Developer</p>
 
 ###
 
