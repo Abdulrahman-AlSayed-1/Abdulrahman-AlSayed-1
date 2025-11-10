@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="center">Welcome 👋 My Name is Abdulrahman Al-Sayed</h3>
+<h2 align="center">Welcome 👋 My Name is Abdulrahman Al-Sayed</h2>
 
 ###
 
